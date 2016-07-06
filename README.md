@@ -1,4 +1,4 @@
 # hello-world
 hello
 new to coding,
-i will stick with it to the end
+its challenging but I don't give up easily
